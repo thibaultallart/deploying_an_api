@@ -2,6 +2,8 @@
 
 First you need to install docker and docker-compose.
 
+### Running the API
+
 You can then run the API
 
 ```bash
@@ -9,6 +11,7 @@ docker-compose up --build
 ```
 
 ### Calling the API
+
 ```
 http://localhost:5002
 ```
